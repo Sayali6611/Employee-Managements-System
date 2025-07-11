@@ -35,7 +35,7 @@ void displayDetails() – Prints employee info.
 - 
 
 # How to Run
-1. Compile the Java file
+1. Compile the Java file = 
    Eclipse
 
 
